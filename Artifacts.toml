@@ -6,4 +6,4 @@ os = "linux"
 
     [[LibCURL2.download]]
     sha256 = "f44c9f3cb9f72c1c127a9e2028182f02c9343e616b7c8df016bcb82fb5a7b4d1"
-    url = "https://github.com/local/releases/download/LibCURL2-v8.11.0+0/LibCURL2.v8.11.0.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/maxfadson/LibCURL2_jll.jl/releases/download/8.11.0-libcurl2-openldap/LibCURL2.v8.11.0.x86_64-linux-gnu.tar.gz"
