@@ -17,6 +17,7 @@ The tarballs for `LibCURL2_jll.jl` have been built from these sources:
 
 `LibCURL2_jll.jl` is available for the following platforms:
 
+* `macOS aarch64` (`aarch64-apple-darwin`)
 * `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
 
 ## Dependencies

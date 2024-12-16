@@ -1,9 +1,17 @@
 [[LibCURL2]]
+arch = "aarch64"
+git-tree-sha1 = "60a78a39efd0978c5a18748878b2fe70e5aee3a2"
+os = "macos"
+
+    [[LibCURL2.download]]
+    sha256 = "b2298177108fe2f6e9bf8a1aac5979a3957484ab96d06f06c3a122dcbcafbd2d"
+    url = "https://github.com/local/releases/download/LibCURL2-v8.11.0+0/LibCURL2.v8.11.0.aarch64-apple-darwin.tar.gz"
+[[LibCURL2]]
 arch = "x86_64"
-git-tree-sha1 = "8f6f9684c59d83833b4880e6eafec632b7207965"
+git-tree-sha1 = "312ad8c48cb31c4fbd2c23d61817944f630b2a78"
 libc = "glibc"
 os = "linux"
 
     [[LibCURL2.download]]
-    sha256 = "f44c9f3cb9f72c1c127a9e2028182f02c9343e616b7c8df016bcb82fb5a7b4d1"
-    url = "https://github.com/maxfadson/LibCURL2_jll.jl/releases/download/8.11.0-libcurl2-openldap/LibCURL2.v8.11.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "dede814d5fc6cde14cc20f2abc93a5e867732933c5a251d3aeb2de217ce1eeaa"
+    url = "https://github.com/local/releases/download/LibCURL2-v8.11.0+0/LibCURL2.v8.11.0.x86_64-linux-gnu.tar.gz"
